@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
 #ollama/ollama:latest  
-registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.12
+f5febc5cf13a
 #registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:gpu-latest
 
  
