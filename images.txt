@@ -9,3 +9,4 @@
 registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:cpu-latest
 registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:gpu-latest
 
+ 
