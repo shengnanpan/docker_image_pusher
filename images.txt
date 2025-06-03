@@ -6,7 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
 #ollama/ollama:latest  
-ollama/ollama:latest
+#ollama/ollama:latest
 #registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:gpu-latest
+nvidia/cuda:12.8.1-base-ubuntu22.04
 
  
