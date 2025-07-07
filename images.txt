@@ -8,6 +8,7 @@
 #ollama/ollama:latest  
 #ollama/ollama:latest
 #registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:gpu-latest
-nvidia/cuda:12.8.1-base-ubuntu22.04
+#nvidia/cuda:12.8.1-base-ubuntu22.04
+python:3.10-bookworm
 
  
